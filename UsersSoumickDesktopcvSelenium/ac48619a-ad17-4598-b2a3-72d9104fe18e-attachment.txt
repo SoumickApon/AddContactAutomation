@@ -1,0 +1,2 @@
+close_tag <selenium.webdriver.remote.webelement.WebElement (session="fcd1c9f9faea04c9dc05c34e70dea256", element="EC804C6419B4ABDFB411A5E8EF6BF0BC_element_120")>
+TimeoutException: The success message did not appear within the specified timeout.

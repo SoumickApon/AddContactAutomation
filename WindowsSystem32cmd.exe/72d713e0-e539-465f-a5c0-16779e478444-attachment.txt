@@ -1,0 +1,1 @@
+close_tag <selenium.webdriver.remote.webelement.WebElement (session="ffc6747856cbeb985ee623cacb6ac470", element="B15AE8CF80AC12B3FACD8910C708ADAB_element_121")>
