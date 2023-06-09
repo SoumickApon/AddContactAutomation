@@ -17,7 +17,7 @@ This repository contains an automation script for adding contacts using Selenium
 3. **Allure report**: Generates an Allure report for clear and comprehensive test result visualization.
 
 
-##Allure Report
+## Allure Report
 
 
 ![allure1](https://github.com/SoumickApon/AddContactAutomation/assets/60807342/f4a82de0-5c16-4336-baba-76b23b99d363)
